@@ -1,0 +1,9 @@
+[package]
+name = "cadence"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+rodio = "0.17"
+rfd = "0.14"
